@@ -10,7 +10,7 @@ The game is played on a 3x3 grid. Each player takes turns to place their symbol 
 <h1>Game Features</h1>
 Players can choose to start as either X or O.
 The game keeps track of scores for each player and ties.
-Players can choose to play again after the game is over.
+Players choose to play again after the game is over.
 <h2>Code Structure</h2>
 The code is structured into several functions that handle different aspects of the game:
 
