@@ -1,5 +1,5 @@
 <h1>Tic-Tac-Toe Game</h1>
-This is a basic implementation of the popular game of Tic-Tac-Toe. It has been developed using Python and the Tkinter GUI toolkit.
+This is a basic implementation of the popular game of Tic-Tac-Toe. It has been developed using python and the Tkinter GUI toolkit.
 
 <h1>Setup</h1>
 To run the game, you will need to have Python 3.x and the Tkinter module installed on your system. Once you have these installed, simply download the tictactoe.py file and run it from the command line or from within an IDE of your choice.
